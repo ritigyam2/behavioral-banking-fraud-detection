@@ -1,0 +1,8 @@
+,precision,recall,f1-score,support
+Low Risk,0.991,1.0,0.9955,101128
+Moderate Risk,0.9838,1.0,0.9918,7885
+High Risk,0.0,0.0,0.0,801
+Critical Risk,0.0,0.0,0.0,186
+accuracy,0.991,0.991,0.991,110000
+macro avg,0.4937,0.5,0.4968,110000
+weighted avg,0.9821,0.991,0.9866,110000
